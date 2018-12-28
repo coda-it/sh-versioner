@@ -1,5 +1,11 @@
 # sh-versioner
 
+## Tested with
+* sh-versioner v1.0.0
+* osx 10.14
+* make 3.81
+* git 2.3.2
+
 ## How it works
 The script's mechanics relies on git tags. It checks what are the differences between particular tags (newest and older one) and based on that generates changelog.
 
